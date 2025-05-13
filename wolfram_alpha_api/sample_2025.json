@@ -1,0 +1,221 @@
+{
+	"queryresult":{
+		"success":true,
+		"error":false,
+		"numpods":2,
+		"datatypes":"AcademyAward",
+		"timedout":"",
+		"timedoutpods":"",
+		"timing":1.696,
+		"parsetiming":0.129,
+		"parsetimedout":false,
+		"recalculate":"",
+		"id":"MSP12221789gd2bbe884d6700002h2e371ahhda478c",
+		"host":"https:\/\/www6b3.wolframalpha.com",
+		"server":"20",
+		"related":"https:\/\/www6b3.wolframalpha.com\/api\/v1\/relatedQueries.jsp?id=MSPa12231789gd2bbe884d6700002gf8i21ef7540f158458888475783217078",
+		"version":"2.6",
+		"inputstring":"Academy Awards Nominees 2025",
+		"pods":[
+			{
+				"title":"Input interpretation",
+				"scanner":"Identity",
+				"id":"Input",
+				"position":100,
+				"error":false,
+				"numsubpods":1,
+				"subpods":[
+					{
+						"title":"",
+						"img":{
+							"src":"https:\/\/www6b3.wolframalpha.com\/Calculate\/MSP\/MSP12241789gd2bbe884d670000537a1bf9i62953ib?MSPStoreType=image\/gif&s=20",
+							"alt":"Academy Awards | nominations\n2025 (year of award ceremony)",
+							"title":"Academy Awards | nominations\n2025 (year of award ceremony)",
+							"width":384,
+							"height":62,
+							"type":"Grid",
+							"themes":"1,2,3,4,5,6,7,8,9,10,11,12",
+							"colorinvertable":true,
+							"contenttype":"image\/gif"
+						},
+						"plaintext":"Academy Awards | nominations\n2025 (year of award ceremony)"
+					}
+				],
+				"expressiontypes":{
+					"name":"Grid"
+				}
+			},
+			{
+				"title":"Academy Award winners and nominees",
+				"scanner":"Data",
+				"id":"Result",
+				"position":200,
+				"error":false,
+				"numsubpods":6,
+				"primary":true,
+				"subpods":[
+					{
+						"title":"Best motion picture",
+						"microsources":{
+							"microsource":"AcademyAwardData"
+						},
+						"img":{
+							"src":"https:\/\/www6b3.wolframalpha.com\/Calculate\/MSP\/MSP12251789gd2bbe884d670000697e4b4dg94fi356?MSPStoreType=image\/gif&s=20",
+							"alt":"winner | Anora (produced by Alex Coco, Samantha Leigh Quan and Sean Baker)\nnominees | A Complete Unknown (produced by Fred Berger, James Mangold and Alex Heineman)\n | Conclave (produced by Tessa Ross, Juliette Howell and Michael Jackman)\n | Dune: Part Two (produced by Mary Parent, Cale Boyter, Tanya Lapointe and Denis Villeneuve)\n | Emilia Pérez (produced by Pascal Caucheteux and Jacques Audiard)\n | I'm Still Here (produced by Maria Carlota Bruno and Rodrigo Teixeira)\n | Nickel Boys (produced by Dede Gardner, Jeremy Kleiner and Joslyn Barnes)\n | The Brutalist (produced by Brady Corbet, D.J. Gugenheim, Brian Young, Andrew Morrison and Nick Gordon)\n | The Substance (produced by Coralie Fargeat, Tim Bevan and Eric Fellner)\n | Wicked (produced by Marc E. Platt)",
+							"title":"winner | Anora (produced by Alex Coco, Samantha Leigh Quan and Sean Baker)\nnominees | A Complete Unknown (produced by Fred Berger, James Mangold and Alex Heineman)\n | Conclave (produced by Tessa Ross, Juliette Howell and Michael Jackman)\n | Dune: Part Two (produced by Mary Parent, Cale Boyter, Tanya Lapointe and Denis Villeneuve)\n | Emilia Pérez (produced by Pascal Caucheteux and Jacques Audiard)\n | I'm Still Here (produced by Maria Carlota Bruno and Rodrigo Teixeira)\n | Nickel Boys (produced by Dede Gardner, Jeremy Kleiner and Joslyn Barnes)\n | The Brutalist (produced by Brady Corbet, D.J. Gugenheim, Brian Young, Andrew Morrison and Nick Gordon)\n | The Substance (produced by Coralie Fargeat, Tim Bevan and Eric Fellner)\n | Wicked (produced by Marc E. Platt)",
+							"width":546,
+							"height":510,
+							"type":"Grid",
+							"themes":"1,2,3,4,5,6,7,8,9,10,11,12",
+							"colorinvertable":true,
+							"contenttype":"image\/gif"
+						},
+						"plaintext":"winner | Anora (produced by Alex Coco, Samantha Leigh Quan and Sean Baker)\nnominees | A Complete Unknown (produced by Fred Berger, James Mangold and Alex Heineman)\n | Conclave (produced by Tessa Ross, Juliette Howell and Michael Jackman)\n | Dune: Part Two (produced by Mary Parent, Cale Boyter, Tanya Lapointe and Denis Villeneuve)\n | Emilia Pérez (produced by Pascal Caucheteux and Jacques Audiard)\n | I'm Still Here (produced by Maria Carlota Bruno and Rodrigo Teixeira)\n | Nickel Boys (produced by Dede Gardner, Jeremy Kleiner and Joslyn Barnes)\n | The Brutalist (produced by Brady Corbet, D.J. Gugenheim, Brian Young, Andrew Morrison and Nick Gordon)\n | The Substance (produced by Coralie Fargeat, Tim Bevan and Eric Fellner)\n | Wicked (produced by Marc E. Platt)"
+					},
+					{
+						"title":"Performance by an actor in a leading role",
+						"microsources":{
+							"microsource":"AcademyAwardData"
+						},
+						"img":{
+							"src":"https:\/\/www6b3.wolframalpha.com\/Calculate\/MSP\/MSP12261789gd2bbe884d67000036f3e3gehc9fdi0c?MSPStoreType=image\/gif&s=20",
+							"alt":"winner | Adrien Brody in The Brutalist\nnominees | Colman Domingo in Sing Sing\n | Ralph Fiennes in Conclave\n | Sebastian Stan in The Apprentice\n | Timothée Chalamet in A Complete Unknown",
+							"title":"winner | Adrien Brody in The Brutalist\nnominees | Colman Domingo in Sing Sing\n | Ralph Fiennes in Conclave\n | Sebastian Stan in The Apprentice\n | Timothée Chalamet in A Complete Unknown",
+							"width":404,
+							"height":157,
+							"type":"Grid",
+							"themes":"1,2,3,4,5,6,7,8,9,10,11,12",
+							"colorinvertable":true,
+							"contenttype":"image\/gif"
+						},
+						"plaintext":"winner | Adrien Brody in The Brutalist\nnominees | Colman Domingo in Sing Sing\n | Ralph Fiennes in Conclave\n | Sebastian Stan in The Apprentice\n | Timothée Chalamet in A Complete Unknown"
+					},
+					{
+						"title":"Performance by an actor in a supporting role",
+						"microsources":{
+							"microsource":"AcademyAwardData"
+						},
+						"img":{
+							"src":"https:\/\/www6b3.wolframalpha.com\/Calculate\/MSP\/MSP12271789gd2bbe884d6700002d27hdgdbhe475df?MSPStoreType=image\/gif&s=20",
+							"alt":"winner | Kieran Culkin in A Real Pain\nnominees | Edward Norton in A Complete Unknown\n | Guy Pearce in The Brutalist\n | Jeremy Strong in The Apprentice\n | Yura Borisov in Anora",
+							"title":"winner | Kieran Culkin in A Real Pain\nnominees | Edward Norton in A Complete Unknown\n | Guy Pearce in The Brutalist\n | Jeremy Strong in The Apprentice\n | Yura Borisov in Anora",
+							"width":379,
+							"height":157,
+							"type":"Grid",
+							"themes":"1,2,3,4,5,6,7,8,9,10,11,12",
+							"colorinvertable":true,
+							"contenttype":"image\/gif"
+						},
+						"plaintext":"winner | Kieran Culkin in A Real Pain\nnominees | Edward Norton in A Complete Unknown\n | Guy Pearce in The Brutalist\n | Jeremy Strong in The Apprentice\n | Yura Borisov in Anora"
+					},
+					{
+						"title":"Performance by an actress in a leading role",
+						"microsources":{
+							"microsource":"AcademyAwardData"
+						},
+						"img":{
+							"src":"https:\/\/www6b3.wolframalpha.com\/Calculate\/MSP\/MSP12281789gd2bbe884d67000067f33cf24i7e27dc?MSPStoreType=image\/gif&s=20",
+							"alt":"winner | Mikey Madison in Anora\nnominees | Cynthia Erivo in Wicked\n | Demi Moore in The Substance\n | Fernanda Torres in I'm Still Here\n | Karla Sofía Gascón in Emilia Pérez",
+							"title":"winner | Mikey Madison in Anora\nnominees | Cynthia Erivo in Wicked\n | Demi Moore in The Substance\n | Fernanda Torres in I'm Still Here\n | Karla Sofía Gascón in Emilia Pérez",
+							"width":337,
+							"height":157,
+							"type":"Grid",
+							"themes":"1,2,3,4,5,6,7,8,9,10,11,12",
+							"colorinvertable":true,
+							"contenttype":"image\/gif"
+						},
+						"plaintext":"winner | Mikey Madison in Anora\nnominees | Cynthia Erivo in Wicked\n | Demi Moore in The Substance\n | Fernanda Torres in I'm Still Here\n | Karla Sofía Gascón in Emilia Pérez"
+					},
+					{
+						"title":"Performance by an actress in a supporting role",
+						"microsources":{
+							"microsource":"AcademyAwardData"
+						},
+						"img":{
+							"src":"https:\/\/www6b3.wolframalpha.com\/Calculate\/MSP\/MSP12291789gd2bbe884d67000032ic100ef3e8bgh3?MSPStoreType=image\/gif&s=20",
+							"alt":"winner | Zoe Saldana in Emilia Pérez\nnominees | Ariana Grande in Wicked\n | Felicity Jones in The Brutalist\n | Isabella Rossellini in Conclave\n | Monica Barbaro in A Complete Unknown",
+							"title":"winner | Zoe Saldana in Emilia Pérez\nnominees | Ariana Grande in Wicked\n | Felicity Jones in The Brutalist\n | Isabella Rossellini in Conclave\n | Monica Barbaro in A Complete Unknown",
+							"width":383,
+							"height":157,
+							"type":"Grid",
+							"themes":"1,2,3,4,5,6,7,8,9,10,11,12",
+							"colorinvertable":true,
+							"contenttype":"image\/gif"
+						},
+						"plaintext":"winner | Zoe Saldana in Emilia Pérez\nnominees | Ariana Grande in Wicked\n | Felicity Jones in The Brutalist\n | Isabella Rossellini in Conclave\n | Monica Barbaro in A Complete Unknown"
+					},
+					{
+						"title":"Achievement in directing",
+						"microsources":{
+							"microsource":"AcademyAwardData"
+						},
+						"img":{
+							"src":"https:\/\/www6b3.wolframalpha.com\/Calculate\/MSP\/MSP12301789gd2bbe884d67000055374210ig451fh6?MSPStoreType=image\/gif&s=20",
+							"alt":"winner | Sean Baker for Anora\nnominees | Brady Corbet for The Brutalist\n | Coralie Fargeat for The Substance\n | Jacques Audiard for Emilia Pérez\n | James Mangold for A Complete Unknown",
+							"title":"winner | Sean Baker for Anora\nnominees | Brady Corbet for The Brutalist\n | Coralie Fargeat for The Substance\n | Jacques Audiard for Emilia Pérez\n | James Mangold for A Complete Unknown",
+							"width":386,
+							"height":157,
+							"type":"Grid",
+							"themes":"1,2,3,4,5,6,7,8,9,10,11,12",
+							"colorinvertable":true,
+							"contenttype":"image\/gif"
+						},
+						"plaintext":"winner | Sean Baker for Anora\nnominees | Brady Corbet for The Brutalist\n | Coralie Fargeat for The Substance\n | Jacques Audiard for Emilia Pérez\n | James Mangold for A Complete Unknown"
+					}
+				],
+				"expressiontypes":[
+					{
+						"name":"Grid"
+					},
+					{
+						"name":"Grid"
+					},
+					{
+						"name":"Grid"
+					},
+					{
+						"name":"Grid"
+					},
+					{
+						"name":"Grid"
+					},
+					{
+						"name":"Grid"
+					}
+				],
+				"states":[
+					{
+						"name":"More",
+						"input":"Result__More"
+					},
+					{
+						"name":"Hide nominees",
+						"input":"Result__Hide nominees"
+					}
+				]
+			}
+		],
+		"assumptions":{
+			"type":"Attribute",
+			"word":"AcademyAwardClass",
+			"template":"Assuming ${desc1}. Use ${desc2} instead",
+			"count":2,
+			"values":[
+				{
+					"name":"",
+					"desc":"year of award ceremony",
+					"input":"*LitAttr.AcademyAwardClass.*AcademyAwardWinQ_Nominee.AcademyAwardYear_%7F2025--_***---"
+				},
+				{
+					"name":"",
+					"desc":"year of film release",
+					"input":"*LitAttr.AcademyAwardClass.*AcademyAwardWinQ_Nominee.AcademyAwardYear_%7F2025--_***AcademyAwardYear_ReleaseYear%3A2025---"
+				}
+			]
+		},
+		"sources":{
+			"url":"https:\/\/www6b3.wolframalpha.com\/sources\/AcademyAwardDataSourceInformationNotes.html",
+			"text":"Academy award data"
+		}
+	}
+}
