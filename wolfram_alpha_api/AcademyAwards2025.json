@@ -1,370 +1,602 @@
 [
   {
-    "title": "Best motion picture",
-    "microsources": { "microsource": "AcademyAwardData" },
-    "img": {
-      "src": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP703230cah92f62ffh7300002ecd6e5c1b1fc8c5?MSPStoreType=image/gif&s=15",
-      "alt": "winner | Anora (produced by Alex Coco, Samantha Leigh Quan and Sean Baker)\nnominees | A Complete Unknown (produced by Fred Berger, James Mangold and Alex Heineman)\n | Conclave (produced by Tessa Ross, Juliette Howell and Michael Jackman)\n | Dune: Part Two (produced by Mary Parent, Cale Boyter, Tanya Lapointe and Denis Villeneuve)\n | Emilia P\u00e9rez (produced by Pascal Caucheteux and Jacques Audiard)\n | I'm Still Here (produced by Maria Carlota Bruno and Rodrigo Teixeira)\n | Nickel Boys (produced by Dede Gardner, Jeremy Kleiner and Joslyn Barnes)\n | The Brutalist (produced by Brady Corbet, D.J. Gugenheim, Brian Young, Andrew Morrison and Nick Gordon)\n | The Substance (produced by Coralie Fargeat, Tim Bevan and Eric Fellner)\n | Wicked (produced by Marc E. Platt)",
-      "title": "winner | Anora (produced by Alex Coco, Samantha Leigh Quan and Sean Baker)\nnominees | A Complete Unknown (produced by Fred Berger, James Mangold and Alex Heineman)\n | Conclave (produced by Tessa Ross, Juliette Howell and Michael Jackman)\n | Dune: Part Two (produced by Mary Parent, Cale Boyter, Tanya Lapointe and Denis Villeneuve)\n | Emilia P\u00e9rez (produced by Pascal Caucheteux and Jacques Audiard)\n | I'm Still Here (produced by Maria Carlota Bruno and Rodrigo Teixeira)\n | Nickel Boys (produced by Dede Gardner, Jeremy Kleiner and Joslyn Barnes)\n | The Brutalist (produced by Brady Corbet, D.J. Gugenheim, Brian Young, Andrew Morrison and Nick Gordon)\n | The Substance (produced by Coralie Fargeat, Tim Bevan and Eric Fellner)\n | Wicked (produced by Marc E. Platt)",
-      "width": 546,
-      "height": 510,
-      "type": "Grid",
-      "themes": "1,2,3,4,5,6,7,8,9,10,11,12",
-      "colorinvertable": true,
-      "contenttype": "image/gif"
-    },
-    "plaintext": "winner | Anora (produced by Alex Coco, Samantha Leigh Quan and Sean Baker)\nnominees | A Complete Unknown (produced by Fred Berger, James Mangold and Alex Heineman)\n | Conclave (produced by Tessa Ross, Juliette Howell and Michael Jackman)\n | Dune: Part Two (produced by Mary Parent, Cale Boyter, Tanya Lapointe and Denis Villeneuve)\n | Emilia P\u00e9rez (produced by Pascal Caucheteux and Jacques Audiard)\n | I'm Still Here (produced by Maria Carlota Bruno and Rodrigo Teixeira)\n | Nickel Boys (produced by Dede Gardner, Jeremy Kleiner and Joslyn Barnes)\n | The Brutalist (produced by Brady Corbet, D.J. Gugenheim, Brian Young, Andrew Morrison and Nick Gordon)\n | The Substance (produced by Coralie Fargeat, Tim Bevan and Eric Fellner)\n | Wicked (produced by Marc E. Platt)"
+    "award": "Best motion picture",
+    "award_type": "winner",
+    "winner": "Anora (produced by Alex Coco, Samantha Leigh Quan and Sean Baker)"
   },
   {
-    "title": "Performance by an actor in a leading role",
-    "microsources": { "microsource": "AcademyAwardData" },
-    "img": {
-      "src": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP704230cah92f62ffh7300004b880f08i5c4ddi9?MSPStoreType=image/gif&s=15",
-      "alt": "winner | Adrien Brody in The Brutalist\nnominees | Colman Domingo in Sing Sing\n | Ralph Fiennes in Conclave\n | Sebastian Stan in The Apprentice\n | Timoth\u00e9e Chalamet in A Complete Unknown",
-      "title": "winner | Adrien Brody in The Brutalist\nnominees | Colman Domingo in Sing Sing\n | Ralph Fiennes in Conclave\n | Sebastian Stan in The Apprentice\n | Timoth\u00e9e Chalamet in A Complete Unknown",
-      "width": 404,
-      "height": 157,
-      "type": "Grid",
-      "themes": "1,2,3,4,5,6,7,8,9,10,11,12",
-      "colorinvertable": true,
-      "contenttype": "image/gif"
-    },
-    "plaintext": "winner | Adrien Brody in The Brutalist\nnominees | Colman Domingo in Sing Sing\n | Ralph Fiennes in Conclave\n | Sebastian Stan in The Apprentice\n | Timoth\u00e9e Chalamet in A Complete Unknown"
+    "award": "Best motion picture",
+    "award_type": "nominated",
+    "winner": "A Complete Unknown (produced by Fred Berger, James Mangold and Alex Heineman)"
   },
   {
-    "title": "Performance by an actor in a supporting role",
-    "microsources": { "microsource": "AcademyAwardData" },
-    "img": {
-      "src": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP705230cah92f62ffh7300002a5c521cbf2fia46?MSPStoreType=image/gif&s=15",
-      "alt": "winner | Kieran Culkin in A Real Pain\nnominees | Edward Norton in A Complete Unknown\n | Guy Pearce in The Brutalist\n | Jeremy Strong in The Apprentice\n | Yura Borisov in Anora",
-      "title": "winner | Kieran Culkin in A Real Pain\nnominees | Edward Norton in A Complete Unknown\n | Guy Pearce in The Brutalist\n | Jeremy Strong in The Apprentice\n | Yura Borisov in Anora",
-      "width": 379,
-      "height": 157,
-      "type": "Grid",
-      "themes": "1,2,3,4,5,6,7,8,9,10,11,12",
-      "colorinvertable": true,
-      "contenttype": "image/gif"
-    },
-    "plaintext": "winner | Kieran Culkin in A Real Pain\nnominees | Edward Norton in A Complete Unknown\n | Guy Pearce in The Brutalist\n | Jeremy Strong in The Apprentice\n | Yura Borisov in Anora"
+    "award": "Best motion picture",
+    "award_type": "nominated",
+    "winner": "Conclave (produced by Tessa Ross, Juliette Howell and Michael Jackman)"
   },
   {
-    "title": "Performance by an actress in a leading role",
-    "microsources": { "microsource": "AcademyAwardData" },
-    "img": {
-      "src": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP706230cah92f62ffh7300001513chbe40b2308i?MSPStoreType=image/gif&s=15",
-      "alt": "winner | Mikey Madison in Anora\nnominees | Cynthia Erivo in Wicked\n | Demi Moore in The Substance\n | Fernanda Torres in I'm Still Here\n | Karla Sof\u00eda Gasc\u00f3n in Emilia P\u00e9rez",
-      "title": "winner | Mikey Madison in Anora\nnominees | Cynthia Erivo in Wicked\n | Demi Moore in The Substance\n | Fernanda Torres in I'm Still Here\n | Karla Sof\u00eda Gasc\u00f3n in Emilia P\u00e9rez",
-      "width": 337,
-      "height": 157,
-      "type": "Grid",
-      "themes": "1,2,3,4,5,6,7,8,9,10,11,12",
-      "colorinvertable": true,
-      "contenttype": "image/gif"
-    },
-    "plaintext": "winner | Mikey Madison in Anora\nnominees | Cynthia Erivo in Wicked\n | Demi Moore in The Substance\n | Fernanda Torres in I'm Still Here\n | Karla Sof\u00eda Gasc\u00f3n in Emilia P\u00e9rez"
+    "award": "Best motion picture",
+    "award_type": "nominated",
+    "winner": "Dune: Part Two (produced by Mary Parent, Cale Boyter, Tanya Lapointe and Denis Villeneuve)"
   },
   {
-    "title": "Performance by an actress in a supporting role",
-    "microsources": { "microsource": "AcademyAwardData" },
-    "img": {
-      "src": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP707230cah92f62ffh7300001d6f2fig3g312070?MSPStoreType=image/gif&s=15",
-      "alt": "winner | Zoe Saldana in Emilia P\u00e9rez\nnominees | Ariana Grande in Wicked\n | Felicity Jones in The Brutalist\n | Isabella Rossellini in Conclave\n | Monica Barbaro in A Complete Unknown",
-      "title": "winner | Zoe Saldana in Emilia P\u00e9rez\nnominees | Ariana Grande in Wicked\n | Felicity Jones in The Brutalist\n | Isabella Rossellini in Conclave\n | Monica Barbaro in A Complete Unknown",
-      "width": 383,
-      "height": 157,
-      "type": "Grid",
-      "themes": "1,2,3,4,5,6,7,8,9,10,11,12",
-      "colorinvertable": true,
-      "contenttype": "image/gif"
-    },
-    "plaintext": "winner | Zoe Saldana in Emilia P\u00e9rez\nnominees | Ariana Grande in Wicked\n | Felicity Jones in The Brutalist\n | Isabella Rossellini in Conclave\n | Monica Barbaro in A Complete Unknown"
+    "award": "Best motion picture",
+    "award_type": "nominated",
+    "winner": "Emilia P\u00e9rez (produced by Pascal Caucheteux and Jacques Audiard)"
   },
   {
-    "title": "Achievement in directing",
-    "microsources": { "microsource": "AcademyAwardData" },
-    "img": {
-      "src": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP708230cah92f62ffh7300004baa7c5d8bccb6bh?MSPStoreType=image/gif&s=15",
-      "alt": "winner | Sean Baker for Anora\nnominees | Brady Corbet for The Brutalist\n | Coralie Fargeat for The Substance\n | Jacques Audiard for Emilia P\u00e9rez\n | James Mangold for A Complete Unknown",
-      "title": "winner | Sean Baker for Anora\nnominees | Brady Corbet for The Brutalist\n | Coralie Fargeat for The Substance\n | Jacques Audiard for Emilia P\u00e9rez\n | James Mangold for A Complete Unknown",
-      "width": 386,
-      "height": 157,
-      "type": "Grid",
-      "themes": "1,2,3,4,5,6,7,8,9,10,11,12",
-      "colorinvertable": true,
-      "contenttype": "image/gif"
-    },
-    "plaintext": "winner | Sean Baker for Anora\nnominees | Brady Corbet for The Brutalist\n | Coralie Fargeat for The Substance\n | Jacques Audiard for Emilia P\u00e9rez\n | James Mangold for A Complete Unknown"
+    "award": "Best motion picture",
+    "award_type": "nominated",
+    "winner": "I'm Still Here (produced by Maria Carlota Bruno and Rodrigo Teixeira)"
   },
   {
-    "title": "Animated feature film",
-    "microsources": { "microsource": "AcademyAwardData" },
-    "img": {
-      "src": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP709230cah92f62ffh7300002h1e64bh3h9667g5?MSPStoreType=image/gif&s=15",
-      "alt": "winner | Gints Zilbalodis, Ron Dyens, Matiss Kaza and Gregory Zalcman for Flow\nnominees | Adam Elliot and Liz Kearney for Memoir of a Snail\n | Chris Sanders and Jeff Hermann for The Wild Robot\n | Kelsey Mann and Mark Nielsen for Inside Out 2\n | Richard Beek, Nick Park and Merlin Crossingham for Wallace & Gromit: Vengeance Most Fowl",
-      "title": "winner | Gints Zilbalodis, Ron Dyens, Matiss Kaza and Gregory Zalcman for Flow\nnominees | Adam Elliot and Liz Kearney for Memoir of a Snail\n | Chris Sanders and Jeff Hermann for The Wild Robot\n | Kelsey Mann and Mark Nielsen for Inside Out 2\n | Richard Beek, Nick Park and Merlin Crossingham for Wallace & Gromit: Vengeance Most Fowl",
-      "width": 546,
-      "height": 197,
-      "type": "Grid",
-      "themes": "1,2,3,4,5,6,7,8,9,10,11,12",
-      "colorinvertable": true,
-      "contenttype": "image/gif"
-    },
-    "plaintext": "winner | Gints Zilbalodis, Ron Dyens, Matiss Kaza and Gregory Zalcman for Flow\nnominees | Adam Elliot and Liz Kearney for Memoir of a Snail\n | Chris Sanders and Jeff Hermann for The Wild Robot\n | Kelsey Mann and Mark Nielsen for Inside Out 2\n | Richard Beek, Nick Park and Merlin Crossingham for Wallace & Gromit: Vengeance Most Fowl"
+    "award": "Best motion picture",
+    "award_type": "nominated",
+    "winner": "Nickel Boys (produced by Dede Gardner, Jeremy Kleiner and Joslyn Barnes)"
   },
   {
-    "title": "Achievement in production design",
-    "microsources": { "microsource": "AcademyAwardData" },
-    "img": {
-      "src": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP710230cah92f62ffh7300004gc77cd565fb8h8f?MSPStoreType=image/gif&s=15",
-      "alt": "winner | Nathan Crowley and Lee Sandales for Wicked\nnominees | Craig Lathrop and Beatrice Brentnerova for Nosferatu\n | Judy Becker and Patricia Cuccia for The Brutalist\n | Shane Vieau and Patrice Vermette for Dune: Part Two\n | Suzie Davies and Cynthia Sleiter for Conclave",
-      "title": "winner | Nathan Crowley and Lee Sandales for Wicked\nnominees | Craig Lathrop and Beatrice Brentnerova for Nosferatu\n | Judy Becker and Patricia Cuccia for The Brutalist\n | Shane Vieau and Patrice Vermette for Dune: Part Two\n | Suzie Davies and Cynthia Sleiter for Conclave",
-      "width": 466,
-      "height": 157,
-      "type": "Grid",
-      "themes": "1,2,3,4,5,6,7,8,9,10,11,12",
-      "colorinvertable": true,
-      "contenttype": "image/gif"
-    },
-    "plaintext": "winner | Nathan Crowley and Lee Sandales for Wicked\nnominees | Craig Lathrop and Beatrice Brentnerova for Nosferatu\n | Judy Becker and Patricia Cuccia for The Brutalist\n | Shane Vieau and Patrice Vermette for Dune: Part Two\n | Suzie Davies and Cynthia Sleiter for Conclave"
+    "award": "Best motion picture",
+    "award_type": "nominated",
+    "winner": "The Brutalist (produced by Brady Corbet, D.J. Gugenheim, Brian Young, Andrew Morrison and Nick Gordon)"
   },
   {
-    "title": "Achievement in cinematography",
-    "microsources": { "microsource": "AcademyAwardData" },
-    "img": {
-      "src": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP711230cah92f62ffh7300002gd9fi820533f9bd?MSPStoreType=image/gif&s=15",
-      "alt": "winner | Lol Crawley for The Brutalist\nnominees | Edward Lachman for Maria\n | Greig Fraser for Dune: Part Two\n | Jarin Blaschke for Nosferatu\n | Paul Guilhaume for Emilia P\u00e9rez",
-      "title": "winner | Lol Crawley for The Brutalist\nnominees | Edward Lachman for Maria\n | Greig Fraser for Dune: Part Two\n | Jarin Blaschke for Nosferatu\n | Paul Guilhaume for Emilia P\u00e9rez",
-      "width": 324,
-      "height": 157,
-      "type": "Grid",
-      "themes": "1,2,3,4,5,6,7,8,9,10,11,12",
-      "colorinvertable": true,
-      "contenttype": "image/gif"
-    },
-    "plaintext": "winner | Lol Crawley for The Brutalist\nnominees | Edward Lachman for Maria\n | Greig Fraser for Dune: Part Two\n | Jarin Blaschke for Nosferatu\n | Paul Guilhaume for Emilia P\u00e9rez"
+    "award": "Best motion picture",
+    "award_type": "nominated",
+    "winner": "The Substance (produced by Coralie Fargeat, Tim Bevan and Eric Fellner)"
   },
   {
-    "title": "Achievement in music written for motion pictures (original score)",
-    "microsources": { "microsource": "AcademyAwardData" },
-    "img": {
-      "src": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP712230cah92f62ffh73000069dd3427i7026i53?MSPStoreType=image/gif&s=15",
-      "alt": "winner | Daniel Blumberg for The Brutalist\nnominees | Hauschka for Conclave\n | Kris Bowers for The Wild Robot\n | Cl\u00e9ment Ducol and Camille for Emilia P\u00e9rez\n | John Powell and Stephen Schwartz for Wicked",
-      "title": "winner | Daniel Blumberg for The Brutalist\nnominees | Hauschka for Conclave\n | Kris Bowers for The Wild Robot\n | Cl\u00e9ment Ducol and Camille for Emilia P\u00e9rez\n | John Powell and Stephen Schwartz for Wicked",
-      "width": 415,
-      "height": 157,
-      "type": "Grid",
-      "themes": "1,2,3,4,5,6,7,8,9,10,11,12",
-      "colorinvertable": true,
-      "contenttype": "image/gif"
-    },
-    "plaintext": "winner | Daniel Blumberg for The Brutalist\nnominees | Hauschka for Conclave\n | Kris Bowers for The Wild Robot\n | Cl\u00e9ment Ducol and Camille for Emilia P\u00e9rez\n | John Powell and Stephen Schwartz for Wicked"
+    "award": "Best motion picture",
+    "award_type": "nominated",
+    "winner": "Wicked (produced by Marc E. Platt)"
   },
   {
-    "title": "Achievement in music written for motion pictures (original song)",
-    "microsources": { "microsource": "AcademyAwardData" },
-    "img": {
-      "src": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP713230cah92f62ffh7300003gda9ih4998d7b2a?MSPStoreType=image/gif&s=15",
-      "alt": "winner | Cl\u00e9ment Ducol, Camille and Jacques Audiard for El Mal in Emilia P\u00e9rez\nnominees | Diane Warren for The Journey in The Six Triple Eight\n | Abraham Alexander and Adrian Quesada for Like a Bird in Sing Sing\n | Cl\u00e9ment Ducol and Camille for Mi Camino in Emilia P\u00e9rez\n | Elton John, Brandi Carlile, Andrew Watt and Bernie Taupin for Never Too Late in Elton John: Never Too Late",
-      "title": "winner | Cl\u00e9ment Ducol, Camille and Jacques Audiard for El Mal in Emilia P\u00e9rez\nnominees | Diane Warren for The Journey in The Six Triple Eight\n | Abraham Alexander and Adrian Quesada for Like a Bird in Sing Sing\n | Cl\u00e9ment Ducol and Camille for Mi Camino in Emilia P\u00e9rez\n | Elton John, Brandi Carlile, Andrew Watt and Bernie Taupin for Never Too Late in Elton John: Never Too Late",
-      "width": 546,
-      "height": 219,
-      "type": "Grid",
-      "themes": "1,2,3,4,5,6,7,8,9,10,11,12",
-      "colorinvertable": true,
-      "contenttype": "image/gif"
-    },
-    "plaintext": "winner | Cl\u00e9ment Ducol, Camille and Jacques Audiard for El Mal in Emilia P\u00e9rez\nnominees | Diane Warren for The Journey in The Six Triple Eight\n | Abraham Alexander and Adrian Quesada for Like a Bird in Sing Sing\n | Cl\u00e9ment Ducol and Camille for Mi Camino in Emilia P\u00e9rez\n | Elton John, Brandi Carlile, Andrew Watt and Bernie Taupin for Never Too Late in Elton John: Never Too Late"
+    "award": "Performance by an actor in a leading role",
+    "award_type": "winner",
+    "winner": "Adrien Brody in The Brutalist"
   },
   {
-    "title": "Writing (screenplay written directly for the screen)",
-    "microsources": { "microsource": "AcademyAwardData" },
-    "img": {
-      "src": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP714230cah92f62ffh73000012358a0bge6g9a4f?MSPStoreType=image/gif&s=15",
-      "alt": "winner | Sean Baker for Anora\nnominees | Coralie Fargeat for The Substance\n | Jesse Eisenberg for A Real Pain\n | Brady Corbet and Mona Fastvold for The Brutalist\n | Moritz Binder, Tim Fehlbaum and Alex David for September 5",
-      "title": "winner | Sean Baker for Anora\nnominees | Coralie Fargeat for The Substance\n | Jesse Eisenberg for A Real Pain\n | Brady Corbet and Mona Fastvold for The Brutalist\n | Moritz Binder, Tim Fehlbaum and Alex David for September 5",
-      "width": 516,
-      "height": 157,
-      "type": "Grid",
-      "themes": "1,2,3,4,5,6,7,8,9,10,11,12",
-      "colorinvertable": true,
-      "contenttype": "image/gif"
-    },
-    "plaintext": "winner | Sean Baker for Anora\nnominees | Coralie Fargeat for The Substance\n | Jesse Eisenberg for A Real Pain\n | Brady Corbet and Mona Fastvold for The Brutalist\n | Moritz Binder, Tim Fehlbaum and Alex David for September 5"
+    "award": "Performance by an actor in a leading role",
+    "award_type": "nominated",
+    "winner": "Colman Domingo in Sing Sing"
   },
   {
-    "title": "Writing (screenplay based on material previously produced or published)",
-    "microsources": { "microsource": "AcademyAwardData" },
-    "img": {
-      "src": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP715230cah92f62ffh7300005g3i360168f73fde?MSPStoreType=image/gif&s=15",
-      "alt": "winner | Peter Straughan for Conclave\nnominees | Jay Cocks and James Mangold for A Complete Unknown\n | RaMell Ross and Joslyn Barnes for Nickel Boys\n | Clint Bentley, Greg Kwedar, Clarence Maclin and John \"Divine G\" Whitfield for Sing Sing\n | Jacques Audiard, Thomas Bidegain, L\u00e9a Mysius and Nicolas Livecchi for Emilia P\u00e9rez",
-      "title": "winner | Peter Straughan for Conclave\nnominees | Jay Cocks and James Mangold for A Complete Unknown\n | RaMell Ross and Joslyn Barnes for Nickel Boys\n | Clint Bentley, Greg Kwedar, Clarence Maclin and John \"Divine G\" Whitfield for Sing Sing\n | Jacques Audiard, Thomas Bidegain, L\u00e9a Mysius and Nicolas Livecchi for Emilia P\u00e9rez",
-      "width": 546,
-      "height": 201,
-      "type": "Grid",
-      "themes": "1,2,3,4,5,6,7,8,9,10,11,12",
-      "colorinvertable": true,
-      "contenttype": "image/gif"
-    },
-    "plaintext": "winner | Peter Straughan for Conclave\nnominees | Jay Cocks and James Mangold for A Complete Unknown\n | RaMell Ross and Joslyn Barnes for Nickel Boys\n | Clint Bentley, Greg Kwedar, Clarence Maclin and John \"Divine G\" Whitfield for Sing Sing\n | Jacques Audiard, Thomas Bidegain, L\u00e9a Mysius and Nicolas Livecchi for Emilia P\u00e9rez"
+    "award": "Performance by an actor in a leading role",
+    "award_type": "nominated",
+    "winner": "Ralph Fiennes in Conclave"
   },
   {
-    "title": "Achievement in costume design",
-    "microsources": { "microsource": "AcademyAwardData" },
-    "img": {
-      "src": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP716230cah92f62ffh7300003ag5c6fcf63e979i?MSPStoreType=image/gif&s=15",
-      "alt": "winner | Paul Tazewell for Wicked\nnominees | Arianne Phillips for A Complete Unknown\n | Linda Muir for Nosferatu\n | Lisy Christl for Conclave\n | Janty Yates and David Crossman for Gladiator II",
-      "title": "winner | Paul Tazewell for Wicked\nnominees | Arianne Phillips for A Complete Unknown\n | Linda Muir for Nosferatu\n | Lisy Christl for Conclave\n | Janty Yates and David Crossman for Gladiator II",
-      "width": 429,
-      "height": 157,
-      "type": "Grid",
-      "themes": "1,2,3,4,5,6,7,8,9,10,11,12",
-      "colorinvertable": true,
-      "contenttype": "image/gif"
-    },
-    "plaintext": "winner | Paul Tazewell for Wicked\nnominees | Arianne Phillips for A Complete Unknown\n | Linda Muir for Nosferatu\n | Lisy Christl for Conclave\n | Janty Yates and David Crossman for Gladiator II"
+    "award": "Performance by an actor in a leading role",
+    "award_type": "nominated",
+    "winner": "Sebastian Stan in The Apprentice"
   },
   {
-    "title": "Achievement in makeup and hairstyling",
-    "microsources": { "microsource": "AcademyAwardData" },
-    "img": {
-      "src": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP717230cah92f62ffh73000036ag840c42ee4eic?MSPStoreType=image/gif&s=15",
-      "alt": "winner | Pierre Olivier Persin, St\u00e9phanie Guillon and Marilyne Scarselli for The Substance\nnominees | David White, Traci Loader and Suzanne Stokes-Munton for Nosferatu\n | Frances Hannon, Laura Blount and Sarah Nuth for Wicked\n | Julia Floch-Carbonel, Emmanuel Janvier and Jean-Christophe Spadaccini for Emilia P\u00e9rez\n | Michael Marino, David Presto and Crystal Jurado for A Different Man",
-      "title": "winner | Pierre Olivier Persin, St\u00e9phanie Guillon and Marilyne Scarselli for The Substance\nnominees | David White, Traci Loader and Suzanne Stokes-Munton for Nosferatu\n | Frances Hannon, Laura Blount and Sarah Nuth for Wicked\n | Julia Floch-Carbonel, Emmanuel Janvier and Jean-Christophe Spadaccini for Emilia P\u00e9rez\n | Michael Marino, David Presto and Crystal Jurado for A Different Man",
-      "width": 546,
-      "height": 237,
-      "type": "Grid",
-      "themes": "1,2,3,4,5,6,7,8,9,10,11,12",
-      "colorinvertable": true,
-      "contenttype": "image/gif"
-    },
-    "plaintext": "winner | Pierre Olivier Persin, St\u00e9phanie Guillon and Marilyne Scarselli for The Substance\nnominees | David White, Traci Loader and Suzanne Stokes-Munton for Nosferatu\n | Frances Hannon, Laura Blount and Sarah Nuth for Wicked\n | Julia Floch-Carbonel, Emmanuel Janvier and Jean-Christophe Spadaccini for Emilia P\u00e9rez\n | Michael Marino, David Presto and Crystal Jurado for A Different Man"
+    "award": "Performance by an actor in a leading role",
+    "award_type": "nominated",
+    "winner": "Timoth\u00e9e Chalamet in A Complete Unknown"
   },
   {
-    "title": "Documentary (feature)",
-    "microsources": { "microsource": "AcademyAwardData" },
-    "img": {
-      "src": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP718230cah92f62ffh73000012280ii010gi5c6f?MSPStoreType=image/gif&s=15",
-      "alt": "winner | Basel Adra, Rachel Szor, Hamdan Ballal and Yuval Abraham for No Other Land\nnominees | Johan Grimonprez, Daan Milius and R\u00e9mi Grellety for Soundtrack to a Coup d'Etat\n | Julian Brave NoiseCat, Emily Kassie and Kellen Quinn for Sugarcane\n | Shiori It\u00f4, Eric Nyari and Hanna Aqvilin for Black Box Diaries\n | Brendan Bellomo, Slava Leontyev, Aniela Sidorska and Paula DuPr\u00e9 Pesmen for Porcelain War",
-      "title": "winner | Basel Adra, Rachel Szor, Hamdan Ballal and Yuval Abraham for No Other Land\nnominees | Johan Grimonprez, Daan Milius and R\u00e9mi Grellety for Soundtrack to a Coup d'Etat\n | Julian Brave NoiseCat, Emily Kassie and Kellen Quinn for Sugarcane\n | Shiori It\u00f4, Eric Nyari and Hanna Aqvilin for Black Box Diaries\n | Brendan Bellomo, Slava Leontyev, Aniela Sidorska and Paula DuPr\u00e9 Pesmen for Porcelain War",
-      "width": 546,
-      "height": 237,
-      "type": "Grid",
-      "themes": "1,2,3,4,5,6,7,8,9,10,11,12",
-      "colorinvertable": true,
-      "contenttype": "image/gif"
-    },
-    "plaintext": "winner | Basel Adra, Rachel Szor, Hamdan Ballal and Yuval Abraham for No Other Land\nnominees | Johan Grimonprez, Daan Milius and R\u00e9mi Grellety for Soundtrack to a Coup d'Etat\n | Julian Brave NoiseCat, Emily Kassie and Kellen Quinn for Sugarcane\n | Shiori It\u00f4, Eric Nyari and Hanna Aqvilin for Black Box Diaries\n | Brendan Bellomo, Slava Leontyev, Aniela Sidorska and Paula DuPr\u00e9 Pesmen for Porcelain War"
+    "award": "Performance by an actor in a supporting role",
+    "award_type": "winner",
+    "winner": "Kieran Culkin in A Real Pain"
   },
   {
-    "title": "Documentary (short subject)",
-    "microsources": { "microsource": "AcademyAwardData" },
-    "img": {
-      "src": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP719230cah92f62ffh7300002ebh68c79206a2da?MSPStoreType=image/gif&s=15",
-      "alt": "winner | Molly O'Brien and Lisa Remington for The Only Girl in the Orchestra\nnominees | Bill Morrison and Jamie Kalven for Incident\n | Ema Ryan Yamazaki and Eric Nyari for Instruments of a Beating Heart\n | Kim A. Snyder and Janique L. Robillard for Death by Numbers\n | Maya Gnyp and Smriti Mundhra for I Am Ready, Warden",
-      "title": "winner | Molly O'Brien and Lisa Remington for The Only Girl in the Orchestra\nnominees | Bill Morrison and Jamie Kalven for Incident\n | Ema Ryan Yamazaki and Eric Nyari for Instruments of a Beating Heart\n | Kim A. Snyder and Janique L. Robillard for Death by Numbers\n | Maya Gnyp and Smriti Mundhra for I Am Ready, Warden",
-      "width": 546,
-      "height": 197,
-      "type": "Grid",
-      "themes": "1,2,3,4,5,6,7,8,9,10,11,12",
-      "colorinvertable": true,
-      "contenttype": "image/gif"
-    },
-    "plaintext": "winner | Molly O'Brien and Lisa Remington for The Only Girl in the Orchestra\nnominees | Bill Morrison and Jamie Kalven for Incident\n | Ema Ryan Yamazaki and Eric Nyari for Instruments of a Beating Heart\n | Kim A. Snyder and Janique L. Robillard for Death by Numbers\n | Maya Gnyp and Smriti Mundhra for I Am Ready, Warden"
+    "award": "Performance by an actor in a supporting role",
+    "award_type": "nominated",
+    "winner": "Edward Norton in A Complete Unknown"
   },
   {
-    "title": "International feature film",
-    "microsources": { "microsource": "AcademyAwardData" },
-    "img": {
-      "src": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP720230cah92f62ffh7300003h13e6ea46038bcb?MSPStoreType=image/gif&s=15",
-      "alt": "winner | I'm Still Here (Brazil)\nnominees | Emilia P\u00e9rez (France)\n | Flow (Latvia)\n | The Girl with the Needle (Denmark)\n | The Seed of the Sacred Fig (Germany)",
-      "title": "winner | I'm Still Here (Brazil)\nnominees | Emilia P\u00e9rez (France)\n | Flow (Latvia)\n | The Girl with the Needle (Denmark)\n | The Seed of the Sacred Fig (Germany)",
-      "width": 358,
-      "height": 157,
-      "type": "Grid",
-      "themes": "1,2,3,4,5,6,7,8,9,10,11,12",
-      "colorinvertable": true,
-      "contenttype": "image/gif"
-    },
-    "plaintext": "winner | I'm Still Here (Brazil)\nnominees | Emilia P\u00e9rez (France)\n | Flow (Latvia)\n | The Girl with the Needle (Denmark)\n | The Seed of the Sacred Fig (Germany)"
+    "award": "Performance by an actor in a supporting role",
+    "award_type": "nominated",
+    "winner": "Guy Pearce in The Brutalist"
   },
   {
-    "title": "Short film (animated)",
-    "microsources": { "microsource": "AcademyAwardData" },
-    "img": {
-      "src": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP721230cah92f62ffh7300003c2h3i66be4b1dcf?MSPStoreType=image/gif&s=15",
-      "alt": "winner | Shirin Sohani and Hossein Molayemi for In the Shadow of the Cypress\nnominees | Daisuke Nishio and Takashi Washio for Magic Candies\n | Lo\u00efc Espuche and Juliette Marquet for Beurk !\n | Nicolas Keppens and Brecht Van Elslande for Beautiful Men\n | Nina Gantz and Stienette Bosklopper for Wander to Wonder",
-      "title": "winner | Shirin Sohani and Hossein Molayemi for In the Shadow of the Cypress\nnominees | Daisuke Nishio and Takashi Washio for Magic Candies\n | Lo\u00efc Espuche and Juliette Marquet for Beurk !\n | Nicolas Keppens and Brecht Van Elslande for Beautiful Men\n | Nina Gantz and Stienette Bosklopper for Wander to Wonder",
-      "width": 546,
-      "height": 175,
-      "type": "Grid",
-      "themes": "1,2,3,4,5,6,7,8,9,10,11,12",
-      "colorinvertable": true,
-      "contenttype": "image/gif"
-    },
-    "plaintext": "winner | Shirin Sohani and Hossein Molayemi for In the Shadow of the Cypress\nnominees | Daisuke Nishio and Takashi Washio for Magic Candies\n | Lo\u00efc Espuche and Juliette Marquet for Beurk !\n | Nicolas Keppens and Brecht Van Elslande for Beautiful Men\n | Nina Gantz and Stienette Bosklopper for Wander to Wonder"
+    "award": "Performance by an actor in a supporting role",
+    "award_type": "nominated",
+    "winner": "Jeremy Strong in The Apprentice"
   },
   {
-    "title": "Short film (live action)",
-    "microsources": { "microsource": "AcademyAwardData" },
-    "img": {
-      "src": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP722230cah92f62ffh730000232fa8f322bf4f35?MSPStoreType=image/gif&s=15",
-      "alt": "winner | Trent and Victoria Warmerdam for I'm Not a Robot\nnominees | Adam J. Graves and Suchitra Mattai for Anuja\n | Cindy Lee and Darwin Shaw for The Last Ranger\n | Nebojsa Slijepcevic and Danijel Pek for The Man Who Could Not Remain Silent\n | Sam Cutler-Kreutz and David Cutler-Kreutz for A Lien",
-      "title": "winner | Trent and Victoria Warmerdam for I'm Not a Robot\nnominees | Adam J. Graves and Suchitra Mattai for Anuja\n | Cindy Lee and Darwin Shaw for The Last Ranger\n | Nebojsa Slijepcevic and Danijel Pek for The Man Who Could Not Remain Silent\n | Sam Cutler-Kreutz and David Cutler-Kreutz for A Lien",
-      "width": 474,
-      "height": 179,
-      "type": "Grid",
-      "themes": "1,2,3,4,5,6,7,8,9,10,11,12",
-      "colorinvertable": true,
-      "contenttype": "image/gif"
-    },
-    "plaintext": "winner | Trent and Victoria Warmerdam for I'm Not a Robot\nnominees | Adam J. Graves and Suchitra Mattai for Anuja\n | Cindy Lee and Darwin Shaw for The Last Ranger\n | Nebojsa Slijepcevic and Danijel Pek for The Man Who Could Not Remain Silent\n | Sam Cutler-Kreutz and David Cutler-Kreutz for A Lien"
+    "award": "Performance by an actor in a supporting role",
+    "award_type": "nominated",
+    "winner": "Yura Borisov in Anora"
   },
   {
-    "title": "Film editing",
-    "microsources": { "microsource": "AcademyAwardData" },
-    "img": {
-      "src": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP723230cah92f62ffh7300005c7gd74ah03733h1?MSPStoreType=image/gif&s=15",
-      "alt": "winner | Sean Baker for Anora\nnominees | D\u00e1vid Jancs\u00f3 for The Brutalist\n | Juliette Welfling for Emilia P\u00e9rez\n | Myron Kerstein for Wicked\n | Nick Emerson for Conclave",
-      "title": "winner | Sean Baker for Anora\nnominees | D\u00e1vid Jancs\u00f3 for The Brutalist\n | Juliette Welfling for Emilia P\u00e9rez\n | Myron Kerstein for Wicked\n | Nick Emerson for Conclave",
-      "width": 326,
-      "height": 157,
-      "type": "Grid",
-      "themes": "1,2,3,4,5,6,7,8,9,10,11,12",
-      "colorinvertable": true,
-      "contenttype": "image/gif"
-    },
-    "plaintext": "winner | Sean Baker for Anora\nnominees | D\u00e1vid Jancs\u00f3 for The Brutalist\n | Juliette Welfling for Emilia P\u00e9rez\n | Myron Kerstein for Wicked\n | Nick Emerson for Conclave"
+    "award": "Performance by an actress in a leading role",
+    "award_type": "winner",
+    "winner": "Mikey Madison in Anora"
   },
   {
-    "title": "Achievement in sound mixing",
-    "microsources": { "microsource": "AcademyAwardData" },
-    "img": {
-      "src": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP724230cah92f62ffh7300002gcb531h51g4cg3b?MSPStoreType=image/gif&s=15",
-      "alt": "winner | Gareth John, Richard King, Ron Bartlett and Doug Hemphill for Dune: Part Two\nnominees | Randy Thom, Brian Chumney, Gary Rizzo and Leff Lefferts for The Wild Robot\n | Erwan Kerzanet, Aymeric Devold\u00e8re, Maxence Duss\u00e8re, Cyril Holtz and Niels Barletta for Emilia P\u00e9rez\n | Simon Hayes, Nancy Nugent Title, Jack Dolman, Andy Nelson and John Marquis for Wicked\n | Tod A. Maitland, Donald Sylvester, Ted Caplan, Paul Massey and David Giammarco for A Complete Unknown",
-      "title": "winner | Gareth John, Richard King, Ron Bartlett and Doug Hemphill for Dune: Part Two\nnominees | Randy Thom, Brian Chumney, Gary Rizzo and Leff Lefferts for The Wild Robot\n | Erwan Kerzanet, Aymeric Devold\u00e8re, Maxence Duss\u00e8re, Cyril Holtz and Niels Barletta for Emilia P\u00e9rez\n | Simon Hayes, Nancy Nugent Title, Jack Dolman, Andy Nelson and John Marquis for Wicked\n | Tod A. Maitland, Donald Sylvester, Ted Caplan, Paul Massey and David Giammarco for A Complete Unknown",
-      "width": 532,
-      "height": 259,
-      "type": "Grid",
-      "themes": "1,2,3,4,5,6,7,8,9,10,11,12",
-      "colorinvertable": true,
-      "contenttype": "image/gif"
-    },
-    "plaintext": "winner | Gareth John, Richard King, Ron Bartlett and Doug Hemphill for Dune: Part Two\nnominees | Randy Thom, Brian Chumney, Gary Rizzo and Leff Lefferts for The Wild Robot\n | Erwan Kerzanet, Aymeric Devold\u00e8re, Maxence Duss\u00e8re, Cyril Holtz and Niels Barletta for Emilia P\u00e9rez\n | Simon Hayes, Nancy Nugent Title, Jack Dolman, Andy Nelson and John Marquis for Wicked\n | Tod A. Maitland, Donald Sylvester, Ted Caplan, Paul Massey and David Giammarco for A Complete Unknown"
+    "award": "Performance by an actress in a leading role",
+    "award_type": "nominated",
+    "winner": "Cynthia Erivo in Wicked"
   },
   {
-    "title": "Achievement in visual effects",
-    "microsources": { "microsource": "AcademyAwardData" },
-    "img": {
-      "src": "https://www6b3.wolframalpha.com/Calculate/MSP/MSP725230cah92f62ffh7300003aaff16372fh97e8?MSPStoreType=image/gif&s=15",
-      "alt": "winner | Paul Lambert, Stephen James, Rhys Salcombe and Gerd Nefzer for Dune: Part Two\nnominees | Eric Barba, Nelson Sepulveda, Daniel Macarin and Shane Mahan for Alien: Romulus\n | Erik Winquist, Stephen Unterfranz, Paul Story and Rodney Burke for Kingdom of the Planet of the Apes\n | Luke Millar, David Clayton, Keith Herft and Peter Stubbs for Better Man\n | Pablo Helman, Jonathan Fawkner, David Shirk and Paul Corbould for Wicked",
-      "title": "winner | Paul Lambert, Stephen James, Rhys Salcombe and Gerd Nefzer for Dune: Part Two\nnominees | Eric Barba, Nelson Sepulveda, Daniel Macarin and Shane Mahan for Alien: Romulus\n | Erik Winquist, Stephen Unterfranz, Paul Story and Rodney Burke for Kingdom of the Planet of the Apes\n | Luke Millar, David Clayton, Keith Herft and Peter Stubbs for Better Man\n | Pablo Helman, Jonathan Fawkner, David Shirk and Paul Corbould for Wicked",
-      "width": 546,
-      "height": 259,
-      "type": "Grid",
-      "themes": "1,2,3,4,5,6,7,8,9,10,11,12",
-      "colorinvertable": true,
-      "contenttype": "image/gif"
-    },
-    "plaintext": "winner | Paul Lambert, Stephen James, Rhys Salcombe and Gerd Nefzer for Dune: Part Two\nnominees | Eric Barba, Nelson Sepulveda, Daniel Macarin and Shane Mahan for Alien: Romulus\n | Erik Winquist, Stephen Unterfranz, Paul Story and Rodney Burke for Kingdom of the Planet of the Apes\n | Luke Millar, David Clayton, Keith Herft and Peter Stubbs for Better Man\n | Pablo Helman, Jonathan Fawkner, David Shirk and Paul Corbould for Wicked"
+    "award": "Performance by an actress in a leading role",
+    "award_type": "nominated",
+    "winner": "Demi Moore in The Substance"
+  },
+  {
+    "award": "Performance by an actress in a leading role",
+    "award_type": "nominated",
+    "winner": "Fernanda Torres in I'm Still Here"
+  },
+  {
+    "award": "Performance by an actress in a leading role",
+    "award_type": "nominated",
+    "winner": "Karla Sof\u00eda Gasc\u00f3n in Emilia P\u00e9rez"
+  },
+  {
+    "award": "Performance by an actress in a supporting role",
+    "award_type": "winner",
+    "winner": "Zoe Saldana in Emilia P\u00e9rez"
+  },
+  {
+    "award": "Performance by an actress in a supporting role",
+    "award_type": "nominated",
+    "winner": "Ariana Grande in Wicked"
+  },
+  {
+    "award": "Performance by an actress in a supporting role",
+    "award_type": "nominated",
+    "winner": "Felicity Jones in The Brutalist"
+  },
+  {
+    "award": "Performance by an actress in a supporting role",
+    "award_type": "nominated",
+    "winner": "Isabella Rossellini in Conclave"
+  },
+  {
+    "award": "Performance by an actress in a supporting role",
+    "award_type": "nominated",
+    "winner": "Monica Barbaro in A Complete Unknown"
+  },
+  {
+    "award": "Achievement in directing",
+    "award_type": "winner",
+    "winner": "Sean Baker for Anora"
+  },
+  {
+    "award": "Achievement in directing",
+    "award_type": "nominated",
+    "winner": "Brady Corbet for The Brutalist"
+  },
+  {
+    "award": "Achievement in directing",
+    "award_type": "nominated",
+    "winner": "Coralie Fargeat for The Substance"
+  },
+  {
+    "award": "Achievement in directing",
+    "award_type": "nominated",
+    "winner": "Jacques Audiard for Emilia P\u00e9rez"
+  },
+  {
+    "award": "Achievement in directing",
+    "award_type": "nominated",
+    "winner": "James Mangold for A Complete Unknown"
+  },
+  {
+    "award": "Animated feature film",
+    "award_type": "winner",
+    "winner": "Gints Zilbalodis, Ron Dyens, Matiss Kaza and Gregory Zalcman for Flow"
+  },
+  {
+    "award": "Animated feature film",
+    "award_type": "nominated",
+    "winner": "Adam Elliot and Liz Kearney for Memoir of a Snail"
+  },
+  {
+    "award": "Animated feature film",
+    "award_type": "nominated",
+    "winner": "Chris Sanders and Jeff Hermann for The Wild Robot"
+  },
+  {
+    "award": "Animated feature film",
+    "award_type": "nominated",
+    "winner": "Kelsey Mann and Mark Nielsen for Inside Out 2"
+  },
+  {
+    "award": "Animated feature film",
+    "award_type": "nominated",
+    "winner": "Richard Beek, Nick Park and Merlin Crossingham for Wallace & Gromit: Vengeance Most Fowl"
+  },
+  {
+    "award": "Achievement in production design",
+    "award_type": "winner",
+    "winner": "Nathan Crowley and Lee Sandales for Wicked"
+  },
+  {
+    "award": "Achievement in production design",
+    "award_type": "nominated",
+    "winner": "Craig Lathrop and Beatrice Brentnerova for Nosferatu"
+  },
+  {
+    "award": "Achievement in production design",
+    "award_type": "nominated",
+    "winner": "Judy Becker and Patricia Cuccia for The Brutalist"
+  },
+  {
+    "award": "Achievement in production design",
+    "award_type": "nominated",
+    "winner": "Shane Vieau and Patrice Vermette for Dune: Part Two"
+  },
+  {
+    "award": "Achievement in production design",
+    "award_type": "nominated",
+    "winner": "Suzie Davies and Cynthia Sleiter for Conclave"
+  },
+  {
+    "award": "Achievement in cinematography",
+    "award_type": "winner",
+    "winner": "Lol Crawley for The Brutalist"
+  },
+  {
+    "award": "Achievement in cinematography",
+    "award_type": "nominated",
+    "winner": "Edward Lachman for Maria"
+  },
+  {
+    "award": "Achievement in cinematography",
+    "award_type": "nominated",
+    "winner": "Greig Fraser for Dune: Part Two"
+  },
+  {
+    "award": "Achievement in cinematography",
+    "award_type": "nominated",
+    "winner": "Jarin Blaschke for Nosferatu"
+  },
+  {
+    "award": "Achievement in cinematography",
+    "award_type": "nominated",
+    "winner": "Paul Guilhaume for Emilia P\u00e9rez"
+  },
+  {
+    "award": "Achievement in music written for motion pictures (original score)",
+    "award_type": "winner",
+    "winner": "Daniel Blumberg for The Brutalist"
+  },
+  {
+    "award": "Achievement in music written for motion pictures (original score)",
+    "award_type": "nominated",
+    "winner": "Hauschka for Conclave"
+  },
+  {
+    "award": "Achievement in music written for motion pictures (original score)",
+    "award_type": "nominated",
+    "winner": "Kris Bowers for The Wild Robot"
+  },
+  {
+    "award": "Achievement in music written for motion pictures (original score)",
+    "award_type": "nominated",
+    "winner": "Cl\u00e9ment Ducol and Camille for Emilia P\u00e9rez"
+  },
+  {
+    "award": "Achievement in music written for motion pictures (original score)",
+    "award_type": "nominated",
+    "winner": "John Powell and Stephen Schwartz for Wicked"
+  },
+  {
+    "award": "Achievement in music written for motion pictures (original song)",
+    "award_type": "winner",
+    "winner": "Cl\u00e9ment Ducol, Camille and Jacques Audiard for El Mal in Emilia P\u00e9rez"
+  },
+  {
+    "award": "Achievement in music written for motion pictures (original song)",
+    "award_type": "nominated",
+    "winner": "Diane Warren for The Journey in The Six Triple Eight"
+  },
+  {
+    "award": "Achievement in music written for motion pictures (original song)",
+    "award_type": "nominated",
+    "winner": "Abraham Alexander and Adrian Quesada for Like a Bird in Sing Sing"
+  },
+  {
+    "award": "Achievement in music written for motion pictures (original song)",
+    "award_type": "nominated",
+    "winner": "Cl\u00e9ment Ducol and Camille for Mi Camino in Emilia P\u00e9rez"
+  },
+  {
+    "award": "Achievement in music written for motion pictures (original song)",
+    "award_type": "nominated",
+    "winner": "Elton John, Brandi Carlile, Andrew Watt and Bernie Taupin for Never Too Late in Elton John: Never Too Late"
+  },
+  {
+    "award": "Writing (screenplay written directly for the screen)",
+    "award_type": "winner",
+    "winner": "Sean Baker for Anora"
+  },
+  {
+    "award": "Writing (screenplay written directly for the screen)",
+    "award_type": "nominated",
+    "winner": "Coralie Fargeat for The Substance"
+  },
+  {
+    "award": "Writing (screenplay written directly for the screen)",
+    "award_type": "nominated",
+    "winner": "Jesse Eisenberg for A Real Pain"
+  },
+  {
+    "award": "Writing (screenplay written directly for the screen)",
+    "award_type": "nominated",
+    "winner": "Brady Corbet and Mona Fastvold for The Brutalist"
+  },
+  {
+    "award": "Writing (screenplay written directly for the screen)",
+    "award_type": "nominated",
+    "winner": "Moritz Binder, Tim Fehlbaum and Alex David for September 5"
+  },
+  {
+    "award": "Writing (screenplay based on material previously produced or published)",
+    "award_type": "winner",
+    "winner": "Peter Straughan for Conclave"
+  },
+  {
+    "award": "Writing (screenplay based on material previously produced or published)",
+    "award_type": "nominated",
+    "winner": "Jay Cocks and James Mangold for A Complete Unknown"
+  },
+  {
+    "award": "Writing (screenplay based on material previously produced or published)",
+    "award_type": "nominated",
+    "winner": "RaMell Ross and Joslyn Barnes for Nickel Boys"
+  },
+  {
+    "award": "Writing (screenplay based on material previously produced or published)",
+    "award_type": "nominated",
+    "winner": "Clint Bentley, Greg Kwedar, Clarence Maclin and John \"Divine G\" Whitfield for Sing Sing"
+  },
+  {
+    "award": "Writing (screenplay based on material previously produced or published)",
+    "award_type": "nominated",
+    "winner": "Jacques Audiard, Thomas Bidegain, L\u00e9a Mysius and Nicolas Livecchi for Emilia P\u00e9rez"
+  },
+  {
+    "award": "Achievement in costume design",
+    "award_type": "winner",
+    "winner": "Paul Tazewell for Wicked"
+  },
+  {
+    "award": "Achievement in costume design",
+    "award_type": "nominated",
+    "winner": "Arianne Phillips for A Complete Unknown"
+  },
+  {
+    "award": "Achievement in costume design",
+    "award_type": "nominated",
+    "winner": "Linda Muir for Nosferatu"
+  },
+  {
+    "award": "Achievement in costume design",
+    "award_type": "nominated",
+    "winner": "Lisy Christl for Conclave"
+  },
+  {
+    "award": "Achievement in costume design",
+    "award_type": "nominated",
+    "winner": "Janty Yates and David Crossman for Gladiator II"
+  },
+  {
+    "award": "Achievement in makeup and hairstyling",
+    "award_type": "winner",
+    "winner": "Pierre Olivier Persin, St\u00e9phanie Guillon and Marilyne Scarselli for The Substance"
+  },
+  {
+    "award": "Achievement in makeup and hairstyling",
+    "award_type": "nominated",
+    "winner": "David White, Traci Loader and Suzanne Stokes-Munton for Nosferatu"
+  },
+  {
+    "award": "Achievement in makeup and hairstyling",
+    "award_type": "nominated",
+    "winner": "Frances Hannon, Laura Blount and Sarah Nuth for Wicked"
+  },
+  {
+    "award": "Achievement in makeup and hairstyling",
+    "award_type": "nominated",
+    "winner": "Julia Floch-Carbonel, Emmanuel Janvier and Jean-Christophe Spadaccini for Emilia P\u00e9rez"
+  },
+  {
+    "award": "Achievement in makeup and hairstyling",
+    "award_type": "nominated",
+    "winner": "Michael Marino, David Presto and Crystal Jurado for A Different Man"
+  },
+  {
+    "award": "Documentary (feature)",
+    "award_type": "winner",
+    "winner": "Basel Adra, Rachel Szor, Hamdan Ballal and Yuval Abraham for No Other Land"
+  },
+  {
+    "award": "Documentary (feature)",
+    "award_type": "nominated",
+    "winner": "Johan Grimonprez, Daan Milius and R\u00e9mi Grellety for Soundtrack to a Coup d'Etat"
+  },
+  {
+    "award": "Documentary (feature)",
+    "award_type": "nominated",
+    "winner": "Julian Brave NoiseCat, Emily Kassie and Kellen Quinn for Sugarcane"
+  },
+  {
+    "award": "Documentary (feature)",
+    "award_type": "nominated",
+    "winner": "Shiori It\u00f4, Eric Nyari and Hanna Aqvilin for Black Box Diaries"
+  },
+  {
+    "award": "Documentary (feature)",
+    "award_type": "nominated",
+    "winner": "Brendan Bellomo, Slava Leontyev, Aniela Sidorska and Paula DuPr\u00e9 Pesmen for Porcelain War"
+  },
+  {
+    "award": "Documentary (short subject)",
+    "award_type": "winner",
+    "winner": "Molly O'Brien and Lisa Remington for The Only Girl in the Orchestra"
+  },
+  {
+    "award": "Documentary (short subject)",
+    "award_type": "nominated",
+    "winner": "Bill Morrison and Jamie Kalven for Incident"
+  },
+  {
+    "award": "Documentary (short subject)",
+    "award_type": "nominated",
+    "winner": "Ema Ryan Yamazaki and Eric Nyari for Instruments of a Beating Heart"
+  },
+  {
+    "award": "Documentary (short subject)",
+    "award_type": "nominated",
+    "winner": "Kim A. Snyder and Janique L. Robillard for Death by Numbers"
+  },
+  {
+    "award": "Documentary (short subject)",
+    "award_type": "nominated",
+    "winner": "Maya Gnyp and Smriti Mundhra for I Am Ready, Warden"
+  },
+  {
+    "award": "International feature film",
+    "award_type": "winner",
+    "winner": "I'm Still Here (Brazil)"
+  },
+  {
+    "award": "International feature film",
+    "award_type": "nominated",
+    "winner": "Emilia P\u00e9rez (France)"
+  },
+  {
+    "award": "International feature film",
+    "award_type": "nominated",
+    "winner": "Flow (Latvia)"
+  },
+  {
+    "award": "International feature film",
+    "award_type": "nominated",
+    "winner": "The Girl with the Needle (Denmark)"
+  },
+  {
+    "award": "International feature film",
+    "award_type": "nominated",
+    "winner": "The Seed of the Sacred Fig (Germany)"
+  },
+  {
+    "award": "Short film (animated)",
+    "award_type": "winner",
+    "winner": "Shirin Sohani and Hossein Molayemi for In the Shadow of the Cypress"
+  },
+  {
+    "award": "Short film (animated)",
+    "award_type": "nominated",
+    "winner": "Daisuke Nishio and Takashi Washio for Magic Candies"
+  },
+  {
+    "award": "Short film (animated)",
+    "award_type": "nominated",
+    "winner": "Lo\u00efc Espuche and Juliette Marquet for Beurk !"
+  },
+  {
+    "award": "Short film (animated)",
+    "award_type": "nominated",
+    "winner": "Nicolas Keppens and Brecht Van Elslande for Beautiful Men"
+  },
+  {
+    "award": "Short film (animated)",
+    "award_type": "nominated",
+    "winner": "Nina Gantz and Stienette Bosklopper for Wander to Wonder"
+  },
+  {
+    "award": "Short film (live action)",
+    "award_type": "winner",
+    "winner": "Trent and Victoria Warmerdam for I'm Not a Robot"
+  },
+  {
+    "award": "Short film (live action)",
+    "award_type": "nominated",
+    "winner": "Adam J. Graves and Suchitra Mattai for Anuja"
+  },
+  {
+    "award": "Short film (live action)",
+    "award_type": "nominated",
+    "winner": "Cindy Lee and Darwin Shaw for The Last Ranger"
+  },
+  {
+    "award": "Short film (live action)",
+    "award_type": "nominated",
+    "winner": "Nebojsa Slijepcevic and Danijel Pek for The Man Who Could Not Remain Silent"
+  },
+  {
+    "award": "Short film (live action)",
+    "award_type": "nominated",
+    "winner": "Sam Cutler-Kreutz and David Cutler-Kreutz for A Lien"
+  },
+  {
+    "award": "Film editing",
+    "award_type": "winner",
+    "winner": "Sean Baker for Anora"
+  },
+  {
+    "award": "Film editing",
+    "award_type": "nominated",
+    "winner": "D\u00e1vid Jancs\u00f3 for The Brutalist"
+  },
+  {
+    "award": "Film editing",
+    "award_type": "nominated",
+    "winner": "Juliette Welfling for Emilia P\u00e9rez"
+  },
+  {
+    "award": "Film editing",
+    "award_type": "nominated",
+    "winner": "Myron Kerstein for Wicked"
+  },
+  {
+    "award": "Film editing",
+    "award_type": "nominated",
+    "winner": "Nick Emerson for Conclave"
+  },
+  {
+    "award": "Achievement in sound mixing",
+    "award_type": "winner",
+    "winner": "Gareth John, Richard King, Ron Bartlett and Doug Hemphill for Dune: Part Two"
+  },
+  {
+    "award": "Achievement in sound mixing",
+    "award_type": "nominated",
+    "winner": "Randy Thom, Brian Chumney, Gary Rizzo and Leff Lefferts for The Wild Robot"
+  },
+  {
+    "award": "Achievement in sound mixing",
+    "award_type": "nominated",
+    "winner": "Erwan Kerzanet, Aymeric Devold\u00e8re, Maxence Duss\u00e8re, Cyril Holtz and Niels Barletta for Emilia P\u00e9rez"
+  },
+  {
+    "award": "Achievement in sound mixing",
+    "award_type": "nominated",
+    "winner": "Simon Hayes, Nancy Nugent Title, Jack Dolman, Andy Nelson and John Marquis for Wicked"
+  },
+  {
+    "award": "Achievement in sound mixing",
+    "award_type": "nominated",
+    "winner": "Tod A. Maitland, Donald Sylvester, Ted Caplan, Paul Massey and David Giammarco for A Complete Unknown"
+  },
+  {
+    "award": "Achievement in visual effects",
+    "award_type": "winner",
+    "winner": "Paul Lambert, Stephen James, Rhys Salcombe and Gerd Nefzer for Dune: Part Two"
+  },
+  {
+    "award": "Achievement in visual effects",
+    "award_type": "nominated",
+    "winner": "Eric Barba, Nelson Sepulveda, Daniel Macarin and Shane Mahan for Alien: Romulus"
+  },
+  {
+    "award": "Achievement in visual effects",
+    "award_type": "nominated",
+    "winner": "Erik Winquist, Stephen Unterfranz, Paul Story and Rodney Burke for Kingdom of the Planet of the Apes"
+  },
+  {
+    "award": "Achievement in visual effects",
+    "award_type": "nominated",
+    "winner": "Luke Millar, David Clayton, Keith Herft and Peter Stubbs for Better Man"
+  },
+  {
+    "award": "Achievement in visual effects",
+    "award_type": "nominated",
+    "winner": "Pablo Helman, Jonathan Fawkner, David Shirk and Paul Corbould for Wicked"
   }
 ]

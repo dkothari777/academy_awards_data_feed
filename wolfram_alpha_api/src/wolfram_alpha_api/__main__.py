@@ -10,6 +10,17 @@ def write_out(year: int, data):
     with open(filename, "w") as fs:
         json.dump(data, fs)
 
+def parse_subpods(data):
+    results = []
+    for x in data:
+        award = x["title"]
+        winners_nominees = x["plaintext"].split("\n")
+        for nominated in winners_nominees:
+            award_type = "winner" if nominated.split("|")[0].strip() == "winner" else "nominated"  # winner | nominee
+            winner = nominated.split("|")[1].strip()
+            results.append({"award": award, "award_type": award_type, "winner": winner})
+    return results
+
 def main():
     year=2025
     input=f"Academy Awards Nominees {year}"
@@ -35,7 +46,8 @@ def main():
         except Exception as e:
             print(e)
             break
-    write_out(year, result["subpods"])
+    parsed_results = parse_subpods(result["subpods"])
+    write_out(year, parsed_results)
 
 if __name__ == '__main__':
     main()
