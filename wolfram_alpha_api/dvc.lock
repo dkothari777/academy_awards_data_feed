@@ -1,0 +1,41 @@
+schema: '2.0'
+stages:
+  retrieve:
+    cmd: python src/retrieve/retrieve/main.py
+    deps:
+    - path: src/common/common/util.py
+      hash: md5
+      md5: 36e892ffb22037303c447945a5dab4c8
+      size: 296
+    - path: src/retrieve/retrieve/main.py
+      hash: md5
+      md5: dcdecbe388eba4ccfbb3f682242b13d2
+      size: 1229
+    outs:
+    - path: data/retrieve
+      hash: md5
+      md5: cf4d4f7daa83332e320d10eaa3aaf661.dir
+      size: 33012
+      nfiles: 1
+  extract:
+    cmd: python src/extract/extract/main.py --data-dir data/retrieve/
+    deps:
+    - path: data/retrieve/
+      hash: md5
+      md5: cf4d4f7daa83332e320d10eaa3aaf661.dir
+      size: 33012
+      nfiles: 1
+    - path: src/common/common/util.py
+      hash: md5
+      md5: 36e892ffb22037303c447945a5dab4c8
+      size: 296
+    - path: src/extract/extract/main.py
+      hash: md5
+      md5: ba4c3c696cbb7754b6ad3e188e760ac9
+      size: 1239
+    outs:
+    - path: data/extract
+      hash: md5
+      md5: befdd25062725795c1dc147911099466.dir
+      size: 16843
+      nfiles: 1
