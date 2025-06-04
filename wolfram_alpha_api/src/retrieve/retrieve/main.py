@@ -1,25 +1,10 @@
 import os
 import requests
-import json
+from common.util import write_out
 
 WOLFRAM_APP_ID=os.environ["WOLFRAM_APP_ID"]
 WOLFRAM_API_URL="https://api.wolframalpha.com/v2/query"
 
-def write_out(year: int, data):
-    filename = f"AcademyAwards{year}.json"
-    with open(filename, "w") as fs:
-        json.dump(data, fs)
-
-def parse_subpods(data):
-    results = []
-    for x in data:
-        award = x["title"]
-        winners_nominees = x["plaintext"].split("\n")
-        for nominated in winners_nominees:
-            award_type = "winner" if nominated.split("|")[0].strip() == "winner" else "nominated"  # winner | nominee
-            winner = nominated.split("|")[1].strip()
-            results.append({"award": award, "award_type": award_type, "winner": winner})
-    return results
 
 def main():
     year=2025
@@ -46,8 +31,7 @@ def main():
         except Exception as e:
             print(e)
             break
-    parsed_results = parse_subpods(result["subpods"])
-    write_out(year, parsed_results)
+    write_out("retrieve", f"AcademyAwards{year}.json", response.json())
 
 if __name__ == '__main__':
     main()

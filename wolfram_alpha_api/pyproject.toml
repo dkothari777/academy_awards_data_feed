@@ -7,13 +7,19 @@ authors = [
 ]
 readme = "README.md"
 requires-python = ">=3.8"
-dependencies = [
-    "requests"
-]
+
+[tool.poetry.dependencies]
+requests = "*"
+dvc = "*"
+common = {path ="src/common", develop = true}
+retrieve = {path ="src/retrieve", develop = true}
+retrieve = {path ="src/extract", develop = true}
 
 [tool.poetry]
-packages = [{include = "wolfram_alpha_api", from = "src"}]
-
+packages = [
+                {include = "retrieve", from="src/retrieve"},
+                {include = "extract", from="src/extract"}
+            ]
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]

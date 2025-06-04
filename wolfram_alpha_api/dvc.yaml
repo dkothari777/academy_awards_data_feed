@@ -1,0 +1,15 @@
+stages:
+  retrieve:
+    cmd: python src/retrieve/retrieve/main.py
+    deps:
+    - src/retrieve/retrieve/main.py
+    - src/common/common/util.py
+    outs:
+    - data/retrieve
+  extract:
+    cmd: python src/extract/extract/main.py --data-dir data/retrieve/
+    deps:
+    - src/extract/extract/main.py
+    - data/retrieve/
+    outs:
+    - data/extract
