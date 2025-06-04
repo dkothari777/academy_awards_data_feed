@@ -11,7 +11,10 @@ def parse_subpods(data):
         winners_nominees = x["plaintext"].split("\n")
         for nominated in winners_nominees:
             award_type = "winner" if nominated.split("|")[0].strip() == "winner" else "nominated"  # winner | nominee
-            winner = nominated.split("|")[1].strip()
+            try:
+                winner = nominated.split("|")[1].strip()
+            except Exception as e:
+                print(f"Skipping line....\n\t{nominated}\n")
             results.append({"award": award, "award_type": award_type, "winner": winner})
     return results
 

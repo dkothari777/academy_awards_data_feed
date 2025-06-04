@@ -7,7 +7,7 @@ WOLFRAM_API_URL="https://api.wolframalpha.com/v2/query"
 
 
 def main():
-    year=2025
+    year=1935
     input=f"Academy Awards Nominees {year}"
     output="json"
     params = {"input": input, "output": "json", "appid": WOLFRAM_APP_ID, "podstate": "Result__More"}

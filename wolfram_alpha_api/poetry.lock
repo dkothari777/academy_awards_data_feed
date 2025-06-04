@@ -1070,6 +1070,20 @@ files = [
 ]
 
 [[package]]
+name = "extract"
+version = "0.1.0"
+description = ""
+optional = false
+python-versions = ">=3.8"
+groups = ["main"]
+files = []
+develop = true
+
+[package.source]
+type = "directory"
+url = "src/extract"
+
+[[package]]
 name = "filelock"
 version = "3.16.1"
 description = "A platform independent file lock."
@@ -2859,4 +2873,4 @@ type = ["pytest-mypy"]
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.8"
-content-hash = "2d28a23c6c1bc8df5cd19d724cbacca2ebeadc184cd667c4592c7d37106f8301"
+content-hash = "344538649f9855a7a5acafd2041eaba5674551056b37f87dce2daeb216081b64"
