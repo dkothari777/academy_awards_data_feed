@@ -13,7 +13,7 @@ requests = "*"
 dvc = "*"
 common = {path ="src/common", develop = true}
 retrieve = {path ="src/retrieve", develop = true}
-retrieve = {path ="src/extract", develop = true}
+extract = {path ="src/extract", develop = true}
 
 [tool.poetry]
 packages = [
