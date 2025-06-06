@@ -5,7 +5,8 @@ stages:
     - src/retrieve/retrieve/main.py
     - src/common/common/util.py
     outs:
-    - data/retrieve
+    - data/retrieve:
+        persist: true
   extract:
     cmd: python src/extract/extract/main.py --data-dir data/retrieve/
     deps:

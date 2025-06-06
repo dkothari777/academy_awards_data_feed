@@ -5,26 +5,26 @@ stages:
     deps:
     - path: src/common/common/util.py
       hash: md5
-      md5: 36e892ffb22037303c447945a5dab4c8
-      size: 296
+      md5: 729e0a3807c5e9aa507c50bd804de174
+      size: 464
     - path: src/retrieve/retrieve/main.py
       hash: md5
-      md5: 350dd17357d251a7c119289965e7afcd
-      size: 1229
+      md5: b978de2f6e4acb19127845d8767496ad
+      size: 2503
     outs:
     - path: data/retrieve
       hash: md5
-      md5: 2c021161d859109ad73f680693aa9cfc.dir
-      size: 18878
-      nfiles: 1
+      md5: f9f23f457a911397548f231cecf5b231.dir
+      size: 2245353
+      nfiles: 76
   extract:
     cmd: python src/extract/extract/main.py --data-dir data/retrieve/
     deps:
     - path: data/retrieve/
       hash: md5
-      md5: 2c021161d859109ad73f680693aa9cfc.dir
-      size: 18878
-      nfiles: 1
+      md5: f9f23f457a911397548f231cecf5b231.dir
+      size: 2245353
+      nfiles: 76
     - path: src/extract/extract/main.py
       hash: md5
       md5: 21d281301d254207ac4f5789dddec7fd
@@ -32,6 +32,6 @@ stages:
     outs:
     - path: data/extract
       hash: md5
-      md5: 1cb6576e61da3b7879f9d8b3c94d72a9.dir
-      size: 7379
-      nfiles: 1
+      md5: eb185cc6ef69dc5edd86ea023a84bf67.dir
+      size: 1062436
+      nfiles: 76
