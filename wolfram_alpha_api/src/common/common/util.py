@@ -12,3 +12,6 @@ def list_files(module: str) -> list[Path]:
     cwd = Path.cwd()
     cwd.joinpath().mkdir(parents=True, exist_ok=True)
     return list(cwd.joinpath(f"data/{module}").glob("*.json"))
+
+def get_year(filename:str):
+    return int(filename.removeprefix("AcademyAwards").removesuffix(".json"))

@@ -5,33 +5,51 @@ stages:
     deps:
     - path: src/common/common/util.py
       hash: md5
-      md5: 729e0a3807c5e9aa507c50bd804de174
-      size: 464
+      md5: 8bfd0c2d8f9e359815b8b73468facbc0
+      size: 570
     - path: src/retrieve/retrieve/main.py
       hash: md5
-      md5: b978de2f6e4acb19127845d8767496ad
-      size: 2503
+      md5: 59a694c26f448a6223b8178f14acdcf1
+      size: 2466
     outs:
     - path: data/retrieve
       hash: md5
-      md5: f9f23f457a911397548f231cecf5b231.dir
-      size: 2245353
+      md5: 5756e87aeeacbe62019d5ab4dbe33499.dir
+      size: 2248780
       nfiles: 76
   extract:
     cmd: python src/extract/extract/main.py --data-dir data/retrieve/
     deps:
     - path: data/retrieve/
       hash: md5
-      md5: f9f23f457a911397548f231cecf5b231.dir
-      size: 2245353
+      md5: 5756e87aeeacbe62019d5ab4dbe33499.dir
+      size: 2248780
       nfiles: 76
     - path: src/extract/extract/main.py
       hash: md5
-      md5: 21d281301d254207ac4f5789dddec7fd
-      size: 1356
+      md5: 44dc9a0ea99d2686e4fcab04875616fb
+      size: 1381
     outs:
     - path: data/extract
       hash: md5
-      md5: eb185cc6ef69dc5edd86ea023a84bf67.dir
-      size: 1062436
+      md5: 9eca96627e0ef8dfe80250b862cbe786.dir
+      size: 1061881
+      nfiles: 76
+  extrapolate:
+    cmd: python src/extrapolate/extrapolate/main.py --data-dir data/extract/
+    deps:
+    - path: data/extract/
+      hash: md5
+      md5: 9eca96627e0ef8dfe80250b862cbe786.dir
+      size: 1061881
+      nfiles: 76
+    - path: src/extrapolate/extrapolate/main.py
+      hash: md5
+      md5: 9bad686cf26a25b5667b42f17c4c6537
+      size: 2305
+    outs:
+    - path: data/extrapolate
+      hash: md5
+      md5: 156d48af283a1cd3a3cfea2e19592137.dir
+      size: 1755616
       nfiles: 76

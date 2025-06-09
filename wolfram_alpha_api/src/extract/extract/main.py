@@ -15,8 +15,10 @@ def parse_subpods(data):
                 winner = nominated.split("|")[1].strip()
             except Exception as e:
                 print(f"Skipping line....\n\t{nominated}\n")
+                continue
             results.append({"award": award, "award_type": award_type, "winner": winner})
     return results
+
 
 def main():
     argparser = ArgumentParser(prog="extract", description="extracts award winners/nominees from wolframalpha json")
