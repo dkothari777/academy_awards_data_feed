@@ -4,7 +4,7 @@ import requests
 from datetime import datetime
 import asyncio
 import aiohttp
-from common.util import write_out, list_files
+from common.util import write_out, list_files, get_year
 import time
 from pathlib import Path
 
@@ -52,8 +52,8 @@ def generate_queue(start_year:int, end_year:int) -> list[int]:
     files: list[Path] = list_files("retrieve")
     years_persisted: list[int] = []
     for file in files:
-        year = file.name.removeprefix("AcademyAwards").removesuffix(".json")
-        years_persisted.append(int(year))
+        year = get_year(file.name)
+        years_persisted.append(year)
     for year in range(start_year, end_year):
         if year not in years_persisted:
             queue.append(year)

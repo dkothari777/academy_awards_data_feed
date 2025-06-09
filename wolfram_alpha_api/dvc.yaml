@@ -14,3 +14,10 @@ stages:
     - data/retrieve/
     outs:
     - data/extract
+  extrapolate:
+    cmd: python src/extrapolate/extrapolate/main.py --data-dir data/extract/
+    deps:
+    - src/extrapolate/extrapolate/main.py
+    - data/extract/
+    outs:
+    - data/extrapolate

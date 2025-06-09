@@ -14,12 +14,14 @@ dvc = "*"
 common = {path ="src/common", develop = true}
 retrieve = {path ="src/retrieve", develop = true}
 extract = {path ="src/extract", develop = true}
+extrapolate = {path ="src/extrapolate", develop = true}
 aiohttp = "^3.12.9"
 
 [tool.poetry]
 packages = [
                 {include = "retrieve", from="src/retrieve"},
-                {include = "extract", from="src/extract"}
+                {include = "extract", from="src/extract"},
+                {include = "extrapolate", from="src/extrapolate"},
             ]
 
 [build-system]
